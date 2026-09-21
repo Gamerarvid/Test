@@ -1,2 +1,1 @@
-# Test
-This is a test
+This is a test repository created to learn how github repos work
